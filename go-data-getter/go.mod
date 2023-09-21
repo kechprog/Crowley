@@ -11,6 +11,7 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/polygon-io/client-go v1.14.1 // indirect
+	go.uber.org/atomic v1.11.0
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
