@@ -1,3 +1,5 @@
 .env
 .vscode
 ai_test/.venv
+tws_py
+key.pem
